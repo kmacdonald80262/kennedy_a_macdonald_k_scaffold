@@ -1,7 +1,7 @@
 # Scaffolds for TRAA
 
 
-#Installation/Usage
+**Installation/Usage**
 
 git init
 
@@ -17,7 +17,7 @@ Then you can see our starting scaffolds for the midterm project (TRAA)
 
 
 
-#Built With
+**Built With**
 
 HTML5
 CSS, CSS3 
@@ -26,7 +26,7 @@ CSS, CSS3
 
 
 
-#Authors
+**Authors**
 [Alexandrea Kennedy](https://github.com/akennedy61891)- Designer and Developer
 
 [Kathleen MacDonald](https://github.com/kmacdonald80262)-Designer and Developer
