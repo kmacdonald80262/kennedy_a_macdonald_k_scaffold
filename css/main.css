@@ -6,6 +6,7 @@
 	display: none;
 }
 
+/* HOME Section */
 
 #siteContainer
 {
@@ -89,7 +90,7 @@
 	flex-direction: row;
 	margin-left: 20px;
 	margin-right: 20px;
-	margin-bottom: 42px;
+	margin-bottom: 30px;
 }
 
 #prod1
@@ -115,6 +116,38 @@
 	margin-left: 33px;	
 }
 
+/* end of HOME section */
+/* PROJECTS section starts */
 
+#projBanner 
+{
+	background-color: grey;
+	height: 230px;
+	width: 100%;
+}
+
+#projCarousel
+{
+	background-color: black;
+	height: 500px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+#projText 
+{
+	background-color: black;
+	height: 350px;
+	width: 800px;
+	margin: 0 auto;
+}
+
+#pastEventsBanner
+{
+	background-color: grey;
+	height: 230px;
+	width: 100%;
+	margin-top: 30px;
+}
 
 
